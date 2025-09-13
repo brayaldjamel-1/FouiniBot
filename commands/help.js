@@ -8,7 +8,7 @@ module.exports = {
         if (!sock.user) return;
 
         const BOT_NAME = "FOUINI BOT";
-        const PREFIX = "!";
+        const PREFIX = ".";
         const remoteJid = msg.key.remoteJid;
         const sender = msg.pushName || "Utilisateur";
 
