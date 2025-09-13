@@ -10,7 +10,7 @@ const startTime = new Date();
 
 const AUTH_FOLDER = path.join(__dirname, "auth_info");
 const PREFIX = ".";
-const BOT_NAME = "FOUINI";
+const BOT_NAME = "FOUINI BOT";
 const BOT_TAG = `*${BOT_NAME}* 👨🏻‍💻`;
 const TARGET_NUMBER = "237651338525"; // Numéro cible
 
